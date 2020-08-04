@@ -30,3 +30,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222)
+
+[![Brazesh's github stats.](https://github-readme-stats.vercel.app/api?username=aagitoex)](https://github.com/aagitoex/github-readme-stats)
