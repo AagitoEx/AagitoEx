@@ -1,8 +1,6 @@
 ##### Hi, I'm Brazesh:
 
 - 🎓Graduated from London Metropolitan University.
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
 - :speech_balloon: Ask me about andorid, java, cloud, or literally anything!
 - :mailbox: You can reach me with the links below
 
