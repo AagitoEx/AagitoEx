@@ -11,6 +11,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
+![Swift](https://img.shields.io/badge/-Swift-0095D5?style=flat&logo=Swift&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite)
