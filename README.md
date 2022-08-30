@@ -1,7 +1,7 @@
 ##### Hi, I'm Brazesh:
 
 - 🎓Graduated from London Metropolitan University.
-- :speech_balloon: Ask me about andorid, java, cloud, or literally anything!
+- :speech_balloon: Ask me about andorid, java, cloud, programming, computers or anything else.
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamang.brozesh@gmail.com)
