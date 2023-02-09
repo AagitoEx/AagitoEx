@@ -11,6 +11,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=333333)
 ![Swift](https://img.shields.io/badge/-Swift-ff6f00?style=flat&logo=Swift&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=FFFFFF)
@@ -18,8 +19,8 @@
 
 ##### Some of the technologies I have worked with
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=FFFFFF)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=FFFFFF)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=222222)
